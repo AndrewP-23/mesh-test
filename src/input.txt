@@ -1,0 +1,17 @@
+mesh.txt
+count
+print
+hist
+rm 0 15.1
+count
+print
+hist
+rm -30.0 -15
+count
+print
+hist
+rm 15 30.1
+count
+print
+hist
+exit
